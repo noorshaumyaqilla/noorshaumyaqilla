@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Aqilla</h1>
 <h3 align="center">A passionate software engineering student from Aceh, Indonesia</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=noorshaumyaqilla" alt="noorshaumyaqilla" /></a> </p>
-
 - 🔭 I’m currently working on [SkillSwap (Flutter learning platform)](https://github.com/plaah/BaskBear_MAP) and [UTM Timetable Management System](https://github.com/yaen-li/FC_Timetable_Management_System) 
 
 - 🌱 I’m currently learning **Neural networks, genetic algorithms, Razor Pages, and backend architecture**
