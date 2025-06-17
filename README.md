@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on [SkillSwap (Flutter learning platform)](https://github.com/plaah/BaskBear_MAP) and [UTM Timetable Management System](https://github.com/yaen-li/FC_Timetable_Management_System) <br><br>🌱 I’m currently learning **Application Development, Flutter, Computational Intelligence, Razor Pages, backend architecture, Software Quality Assuance**<br><br>📫 How to reach me **noorshaumy@gmail.com**
+🔭 I’m currently working on [SkillSwap (Flutter learning platform)](https://github.com/plaah/BaskBear_MAP) and [UTM Timetable Management System](https://github.com/yaen-li/FC_Timetable_Management_System) <br><br>🌱 I’m currently learning **Application Development, Flutter, Computational Intelligence, backend architecture, Software Quality Assuance**<br><br>📫 How to reach me **noorshaumy@gmail.com**
 
 
 ## 🌐 Socials:
