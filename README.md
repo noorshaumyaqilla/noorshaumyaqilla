@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on [Huddle Up](https://github.com/noorshaumyaqilla/HuddleUp) <br>🌱 I’m currently learning **Application Development, Flutter, Computational Intelligence, backend architecture, Software Quality Assuance**<br><br>📫 How to reach me **noorshaumy@gmail.com** <br> explore my protofolio at https://noorshaumyaqilla.github.io/ 
+🔭 I’m currently working on [Huddle Up](https://github.com/noorshaumyaqilla/HuddleUp) <br>🌱 I’m currently learning **Application Development, Flutter, Computational Intelligence, backend architecture, Software Quality Assuance**<br><br>📫 How to reach me **noorshaumy@gmail.com** <br> 👀explore my portofolio at https://noorshaumyaqilla.github.io/ 
 
 
 ## 🌐 Socials:
