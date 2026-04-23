@@ -1,5 +1,5 @@
 # 💫 About Me:
-📊 Ongoing fyp project: **Interpretable Student Performance Prediction using LIME Technique**
+📊 Ongoing fyp project: **Interpretable Student Performance Prediction using LIME Technique** <br>
 🔭 I’m currently working on [Huddle Up](https://github.com/noorshaumyaqilla/HuddleUp) as my ongoing personal project<br>
 🌱 I’m currently learning **Application Development, Flutter, Computational Intelligence, backend architecture, Software Quality Assuance**<br>
 <br>📫 How to reach me **noorshaumy@gmail.com** <br> 👀explore my portofolio at https://noorshaumyaqilla.github.io/ 
